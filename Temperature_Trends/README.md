@@ -17,10 +17,7 @@ The dataset contains daily climate records from various weather stations across 
 
 For this project, the following tasks are performed:
 
-1. Plot line graphs of the record high and record low temperatures by day of the year over the period 2005-2014. The area between the record high and record low temperatures for each day is shaded.
-2. Overlay a scatter plot of the 2015 data for any points (highs and lows) for which the ten-year record (2005-2014) record high or record low was broken in 2015.
-3. Handle leap days (e.g., February 29th) by removing these points from the dataset for visualisation purposes.
-4. Enhance the visual presentation by incorporating principles from data visualisation techniques, including legends, labels, and aesthetics.
+Plot line graphs of the record high and record low temperatures by day of the year over the period 2005-2014. The area between the record high and record low temperatures for each day. Overlay a scatter plot of the 2015 data for any points (highs and lows) for which the ten-year record (2005-2014) record high or record low was broken in 2015.
 
 
 ## Files
