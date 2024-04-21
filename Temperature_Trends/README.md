@@ -17,12 +17,12 @@ The dataset contains daily climate records from various weather stations across 
 
 For this project, the following tasks are performed:
 
-Plot line graphs of the record high and record low temperatures by day of the year over the period 2005-2014. The area between the record high and record low temperatures for each day. Overlay a scatter plot of the 2015 data for any points (highs and lows) for which the ten-year record (2005-2014) record high or record low was broken in 2015.
+Plot line graphs of the record high and record low temperatures by day of the year over the period 2005-2014. Overlay a scatter plot of the 2015 data for any points (highs and lows) for which the ten-year record (2005-2014) record high or record low was broken in 2015.
 
 
 ## Files
 
-- `NCEIclimaterecords.csv`: Dataset containing information about educational videos and their engagement levels.
+- `NCEIclimaterecords.csv`: Dataset containing daily climate records from weather posts in the Michigan area.
 - `Temperature_Trends.ipynb`: Jupyter Notebook containing code for training and evaluating the model.
 
 ## Usage
@@ -38,5 +38,5 @@ To run the notebook:
 The following Python libraries are required to run the notebook:
 
 - `pandas`: For data manipulation and analysis.
-- `matplotlib`: For data visualization.
+- `matplotlib`: For data visualisation.
 - `numpy`: For numerical operations.
