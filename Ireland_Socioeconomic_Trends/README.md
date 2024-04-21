@@ -38,6 +38,6 @@ The main objectives of this project are as follows:
 The following Python libraries are required to run the notebook:
 
 - `pandas`: For data manipulation and analysis.
-- `matplotlib`: For data visualization.
+- `matplotlib`: For data visualisation.
 - `numpy`: For numerical operations.
 - `scipy`: For statistical analysis.
