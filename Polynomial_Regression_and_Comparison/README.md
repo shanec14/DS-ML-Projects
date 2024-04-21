@@ -9,7 +9,7 @@ The synthetic dataset used in this analysis consists of input features `x` and t
 ## Polynomial Regression
 
 1. **Model Training**: Polynomial regression models of various degrees (1, 3, 6, and 9) are trained using the training data.
-2. **Visualization**: The trained models are visualized along with the training and testing data to observe the fitting behavior at different degrees.
+2. **Visualisation**: The trained models are visualised along with the training and testing data to observe the fitting behavior at different degrees.
 3. **Evaluation**: The R² scores are calculated for each polynomial regression model on both the training and testing sets to evaluate the model performance.
 
 ## Model Comparison
@@ -17,7 +17,7 @@ The synthetic dataset used in this analysis consists of input features `x` and t
 In addition to polynomial regression, two other regression models are trained and compared:
 
 1. **Linear Regression**: A non-regularized linear regression model is trained and evaluated.
-2. **Lasso Regression**: A Lasso regression model with regularization is trained and evaluated.
+2. **Lasso Regression**: A Lasso regression model with regularisation is trained and evaluated.
 
 The R² scores of the polynomial regression, linear regression, and Lasso regression models on the testing set are compared to understand the relative performance of each model.
 
@@ -31,7 +31,7 @@ The R² scores of the polynomial regression, linear regression, and Lasso regres
 To run the notebook:
 
 1. Ensure you have Jupyter Notebook installed.
-2. Execute each cell in the notebook sequentially to generate synthetic data, train the models, and visualize the results.
+2. Execute each cell in the notebook sequentially to generate synthetic data, train the models, and visualise the results.
 
 ## Dependencies
 
@@ -39,5 +39,5 @@ The following Python libraries are required to run the notebook:
 
 - `numpy`: For numerical operations.
 - `pandas`: For data manipulation and analysis.
-- `matplotlib`: For data visualization.
+- `matplotlib`: For data visualisation.
 - `scikit-learn`: For machine learning algorithms and evaluation metrics.
