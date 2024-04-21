@@ -26,7 +26,7 @@ The notebook includes the following steps:
 
 3. **Model Evaluation**: Evaluate the trained models using various evaluation metrics such as accuracy, precision, recall, and ROC-AUC score and compare scores to dummy model.
 
-4. **Visualisation**: Visualize the performance of the models using ROC curve and Precision-Recall curve.
+4. **Visualisation**: Visualise the performance of the models using ROC curve and Precision-Recall curve.
 
 ## Files
 
@@ -49,5 +49,5 @@ The following Python libraries are required to run the notebook:
 - `pandas`: For data manipulation and analysis.
 - `numpy`: For numerical operations.
 - `scikit-learn`: For machine learning algorithms and evaluation metrics.
-- `matplotlib`  For data visualization.
+- `matplotlib`  For data visualisation.
 
