@@ -24,7 +24,7 @@ The main objectives of this project are as follows:
 - `CrimeRatesIreland.csv`: Dataset containing crime rates in Ireland.
 - `ImmigrantDataIreland.csv`: Dataset containing immigrant data in Ireland.
 - `Ireland_Socioeconomic_Trends.ipynb`: Jupyter Notebook for data analysis and exploration.
-- `Statistical_Analysis.md`: Markdown file specifically dedicated to the statistical analysis aspect of the project.
+- `Statistical_Analysis.md`: File specifically dedicated to the statistical analysis aspect of the project.
 
 ## Usage
 
