@@ -26,7 +26,7 @@ Additionally, a Support Vector Classifier (SVC) is trained and optimized using a
 ## Files
 
 - `mushroom.csv`: Dataset containing information about mushrooms.
-- `Mushroom_Classification.ipynb`: Jupyter Notebook containing code for training, evaluating, and visualizing the models.
+- `Mushroom_Classification.ipynb`: Jupyter Notebook containing code for training, evaluating, and visualising the models.
 
 ## Usage
 
